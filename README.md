@@ -1,6 +1,7 @@
  TradeAI 🤖📈
 
 An intelligent trading assistant that combines machine learning predictions with AI-powered market analysis to provide sophisticated trading signals and portfolio management.
+![image](https://github.com/user-attachments/assets/c2afa1ff-e270-44c3-9447-fb575079e462)
 
 ## Key Features
 
@@ -10,14 +11,13 @@ An intelligent trading assistant that combines machine learning predictions with
 - **Interactive Advisor**: AI chatbot for trading strategy discussions
 
 ## Quick Start
+1. **Clone the repo**
+  
+2. **Install Dependencies**
 
-1. **Install Dependencies**
+3. **Configure Environment**
 
-2. **Configure Environment**
-
-- Create `.env` file with:
-
-3. **Run Application**
+4. **Run Application** : streamlit run app
 
 ## Usage Guide
 
