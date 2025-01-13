@@ -19,7 +19,7 @@ An intelligent trading assistant that combines machine learning predictions with
 
 3. **Configure Environment**
 
-4. **Run Application** : streamlit run app
+4. **Run Application** : streamlit run app.py
 
 ## Usage Guide
 
