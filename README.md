@@ -2,6 +2,8 @@
 
 An intelligent trading assistant that combines machine learning predictions with AI-powered market analysis to provide sophisticated trading signals and portfolio management.
 ![image](https://github.com/user-attachments/assets/c2afa1ff-e270-44c3-9447-fb575079e462)
+![image](https://github.com/user-attachments/assets/493ff889-cdb7-499e-adc5-20d4579b89f8)
+
 
 ## Key Features
 
