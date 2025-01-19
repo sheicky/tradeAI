@@ -38,4 +38,6 @@ An intelligent trading assistant that combines machine learning predictions with
 - Groq LLM
 - Pandas & NumPy
 
+## Demo Video 
+https://youtu.be/lUeTzIwtXuY
 
